@@ -45,6 +45,11 @@ Dual Color LED          NUCLEO-F103RB
                             │
                            ───
 ```
+## 실행 영상
+
+
+https://github.com/user-attachments/assets/e4daadeb-7ffb-4c10-8eb6-0b5533d1e108
+
 
 ## 💻 소프트웨어
 
